@@ -1,3 +1,4 @@
 # k8s-exercises
-A zach and Viktor extravaganza
-Solutions and works in progress for exercises found here: https://kodekloud.com/courses/kubernetes-challenges/
+A Zach and Viktor Kubernetes Extravaganza
+
+Solutions and work in progress for the [KodeKloud Kubernetes Challenges](https://kodekloud.com/courses/kubernetes-challenges/).
