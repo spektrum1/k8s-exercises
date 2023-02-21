@@ -1,0 +1,8 @@
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  creationTimestamp: null
+  name: development
+# We actually found this file was probably unnecessary.
+#  We applied it after other things and the namespace seemingly existed.
